@@ -39,7 +39,7 @@ about:
   description: |
     Diskcache is a fast, persistent, disk-based cache for Python objects.
   dev_url: https://github.com/grantjenks/python-diskcache
-  doc_url: http://www.grantjenks.com/docs/diskcache/
+  doc_url: https://www.grantjenks.com/docs/diskcache/
 
 extra:
   recipe-maintainers:
