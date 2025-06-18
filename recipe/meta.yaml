@@ -31,11 +31,13 @@ test:
     - pip
 
 about:
-  home: http://www.grantjenks.com/docs/diskcache/
+  home: https://www.grantjenks.com/docs/diskcache/
   license_file: LICENSE
   license: Apache-2.0
   license_family: Apache
   summary: Disk and file backed cache.
+  description: |
+    Diskcache is a fast, persistent, disk-based cache for Python objects.
   dev_url: https://github.com/grantjenks/python-diskcache
   doc_url: http://www.grantjenks.com/docs/diskcache/
 
